@@ -16,8 +16,8 @@
 
 ```
 Formado em Sistemas de Informação pela UNIPAM - Centro Universitário de Patos de Minas.
-Possuo conhecimentos no desenvolvimento de sistemas web, domínio de boas práticas de programação e padrões de projetos e experiência em
-executar projetos utilizando metodologias ágeis.
+Possuo conhecimentos no desenvolvimento de sistemas web, domínio de boas práticas de programação e padrões de projetos
+e experiência em executar projetos utilizando metodologias ágeis.
 ```
 ## Tecnologias que estou estudando atualmente 💻
   
