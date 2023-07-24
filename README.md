@@ -4,20 +4,23 @@
 
 <hr>
 
-[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/RhuanThales)](https://www.facebook.com/rhuan.thales/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/RhuanThales)](https://www.linkedin.com/in/rhuan-thales-de-souza-trajano-05512715a/)
 </h4>
 
-<h3 align="center">
- <br>
-Olá, eu sou o Rhuan! 🇧🇷
+<h3 align="center"> <br>
+
+ Olá, eu sou o Rhuan! 🇧🇷
 <br>
 
 </h3>
+
 ```
-Formado em Sistemas de Informação pela UNIPAM - Centro Universitário de Patos de Minas. Possuo conhecimentos no desenvolvimento de sistemas web, domínio de boas práticas de programação e padrões de projetos e experiência em executar projetos utilizando metodologias ágeis.
+Formado em Sistemas de Informação pela UNIPAM - Centro Universitário de Patos de Minas.
+Possuo conhecimentos no desenvolvimento de sistemas web, domínio de boas práticas de programação e padrões de projetos e experiência em
+executar projetos utilizando metodologias ágeis.
 ```
 ## Tecnologias que estou estudando atualmente 💻
+  
   - C#
   - MongoDB
   - MySQL
