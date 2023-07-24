@@ -27,5 +27,5 @@ Formado em Sistemas de Informação pela UNIPAM - Centro Universitário de Patos
   - Testes unitários
 
 ## Meus dados no Github
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RhuanThales&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RhuanThales&layout=compact&theme=tokyonight)](https://github.com/RhuanThales)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RhuanThales&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RhuanThales&layout=compact&theme=tokyonight)](https://github.com/RhuanThales)
